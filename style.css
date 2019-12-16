@@ -1,0 +1,49 @@
+/*
+Author Name: Mehedi Islam Ripon.
+Author URI: https://facebook.com/mehediislamripon/
+*/
+#bodywrap{
+	margin-left: 30em;
+    margin-top: 1em;
+}
+#background{
+	width: 440px;
+    height: 250px;
+    border: 1px solid green;
+    background: green;
+    margin-left: 76px;
+}
+#circle {
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    background-color: red;
+    position: relative;
+    bottom: 217px;
+    left: 194px;
+}
+.support{
+	width: 10px;
+    height: 387px;
+    background: #8BC34A;
+    margin-top: -180px;
+    margin-left: 76px;
+}
+.demo1{
+	width: 65px;
+    height: 22px;
+    background: #31729f;
+    margin-left: 50px;
+}
+.demo2{
+	width: 120px;
+    height: 24px;
+    background: #5b515a;
+    margin-left: 23px;
+}
+.demo3{
+	width: 169px;
+    height: 24px;
+    background: gray;
+}
+
